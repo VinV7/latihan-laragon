@@ -1,3 +1,3 @@
 <?php 
 
-echo "Hello my name is albin, i am a programmer. i am learning at SBXOneStudio";
+echo "Hello my name is albin, i am a programmer. i am learning at SBXOneStudio. my teacher is Arya Mahendra";
